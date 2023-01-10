@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karthik3773
-- 👀 I’m interested in Web and Android app development
+- 👀 I’m interested in Android app development
 - 🌱 I’m currently learning android app dev
 - 📫 How to reach me - kkarthikeyan3773@gmail.com
 
